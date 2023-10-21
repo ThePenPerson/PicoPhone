@@ -9,6 +9,3 @@ Logo Generator:
 
 Image to Binary to be displayed on the screen:
 [click here](http://javl.github.io/image2cpp/)
-
-Connecting to an SD card:
-[click here]()
